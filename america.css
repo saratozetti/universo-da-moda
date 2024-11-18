@@ -1,0 +1,45 @@
+h2{text-align: center;
+    font-family: 'Arial', sans-serif; 
+    font-size: 2em;
+    color: #2c3e50; 
+    text-align: center; 
+    margin: 20px 0;
+    text-transform: uppercase; 
+    
+    padding: 10px 0;
+    transition: color 0.3s; 
+    color: #501f62;
+}
+p {
+    font-family: 'Arial', sans-serif; 
+    font-size: 18px; 
+    color: #333;
+    line-height: 1.6; 
+    margin: 10px 0; 
+    padding: 5px; 
+    
+    border-left: 4px solid #ffffff; 
+    text-align: justify; 
+    text-indent: 10px; 
+}
+/* Importando uma fonte do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&family=Montserrat:wght@600&display=swap');
+
+h2{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 36px; 
+    color: #4e95dc; 
+    text-align: center; 
+    margin: 20px 0; 
+    text-transform: uppercase; 
+    letter-spacing: 2px; 
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 24px; 
+    color: #5c339a; 
+    text-align: center; 
+    margin: 10px 0;
+    font-weight: 600; 
+}

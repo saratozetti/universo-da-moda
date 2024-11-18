@@ -1,0 +1,46 @@
+h2{
+    text-align: center;
+    font-family: 'Arial', sans-serif; /* Fonte personalizada */
+    font-size: 2em; /* Tamanho maior */
+    color: #2c3e50; /* Cor do texto */
+    text-align: center; /* Alinhamento centralizado */
+    margin: 20px 0; /* Espaçamento em cima e embaixo */
+    text-transform: uppercase; /* Letras maiúsculas */
+    
+    padding: 10px 0; /* Espaçamento interno */
+    transition: color 0.3s; /* Transição suave */
+    color: #1427f4; 
+}
+p {
+    font-family: 'Arial', sans-serif; 
+    font-size: 18px; 
+    color: #333;
+    line-height: 1.6; 
+    margin: 10px 0; 
+    padding: 5px; 
+    
+    border-left: 4px solid #ffffff; 
+    text-align: justify; 
+    text-indent: 10px; 
+}
+/* Importando uma fonte do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&family=Montserrat:wght@600&display=swap');
+
+h2{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 36px; 
+    color: #4e95dc; 
+    text-align: center; 
+    margin: 20px 0; 
+    text-transform: uppercase; 
+    letter-spacing: 2px; 
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 24px; 
+    color: #c520db; 
+    text-align: center; 
+    margin: 10px 0;
+    font-weight: 600; 
+}
